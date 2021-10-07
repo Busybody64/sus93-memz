@@ -1,7 +1,4 @@
-le._apps.memz = {
-  categories: "Amusement",
-  name: "MEMZ Destructive",
-  icon: "/c/files/images/icons/pow.png",
+async function() {
   exec: function() {
     le._apps.reboot.exec = function(){
   le._settings.sounds.shutdown = "/c/files/sounds/shutdown.mp3";$audio('shutdown').play(); var head = document.head.innerHTML; document.write('<head>'+head+'</head><body style="background: #636363; color: white;"><h1 id="texxt" style="font-family: Arial Black;"></h1><img width="600" src="https://i.imgur.com/vuCXT9O.gif"><audio autoplay loop><source src="https://www.albinoblacksheep.com/audio/mp3/Nyanyanyanyanyanyanya.mp3" type="audio/mp3"></audio><br><br><br><br><div style="color: white;"><h1>Credits</h1><br><b>MEMZ Trojan made by Leurak</b><br><u>Windows 93 version created by:</u><br><p>Blockly806</p><p>'+"'HOST'"+'</p><br><br></div></body>');
