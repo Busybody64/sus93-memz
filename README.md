@@ -1,5 +1,1 @@
-# example-module
-An example module for sus93. Source code at `example-module.js`.
-
-## Installation
-You can install example-module with `sus93 install example-module`.
+A port i found on the internet, uploaded by https://www.youtube.com/channel/UC4lh2EGi6wB7QhfvGlTXtpg. I uploaded it here for fun.
