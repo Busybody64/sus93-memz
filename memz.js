@@ -18,5 +18,4 @@ setInterval(function(){
     url: "https://pierrepapierciseaux.net/.skynet/?q=" + search.replace(/g/gi,'%20') + "&lang=en"
   });
 }, $io.arr.random([10000,11000,12000,13000,14000,15000]));
-  }
-})
+ })
